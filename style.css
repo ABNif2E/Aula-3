@@ -3,15 +3,38 @@ body {
     background: black;
 }
 
-header{
-    border: solid 10px rgb(123,104,238);
+header {
+    border: solid 10px rgb(123, 104, 238);
     font-size: 32px;
-    color: rgb(123,104,238);
+    color: rgb(123, 104, 238);
 }
 
-section{
-   background: rgb(204, 255, 223);
-   padding-bottom: 80px
-   padding-
+section {
+    background: rgb(204, 255, 223);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+body{
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Foldit", sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
